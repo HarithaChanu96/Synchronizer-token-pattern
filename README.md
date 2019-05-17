@@ -9,3 +9,5 @@ Preventing Cross-Site Request Forgery (CSRF) using synchronizer token pattern an
 
 ## user - Haritha
 ## pw - haritha123
+
+Blog Post : https://medium.com/@harithachanu96/synchronizer-token-pattern-c7975ef766d1
